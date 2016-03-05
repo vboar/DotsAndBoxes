@@ -16,18 +16,18 @@ IDE：Eclipse
 
 游戏部分截图：
 
-![introduction/index.jpg]
+![游戏主界面](introduction/index.jpg)
 
-![introduction/game.jpg]
+![经典模式游戏中](introduction/game.jpg)
 
-![introduction/help.jpg]
+![游戏帮助](introduction/help.jpg)
 
-![introduction/adventure.jpg]
+![剧情模式主界面](introduction/adventure.jpg)
 
-![introduction/adventure-2.jpg]
+![小王子的家](introduction/adventure-2.jpg)
 
-![introduction/adventure-3.jpg]
+![小王子的时光机](introduction/adventure-3.jpg)
 
-![introduction/adventure-4.jpg]
+![剧情模式剧情](introduction/adventure-4.jpg)
 
-![introduction/adventure-5.jpg]
+![剧情模式游戏中](introduction/adventure-5.jpg)
